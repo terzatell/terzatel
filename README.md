@@ -1,2 +1,1 @@
 # terzatel
-.py requirements.txt
